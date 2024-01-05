@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalAssLib", "CalAssLib\CalAssLib.csproj", "{CC7D3080-C961-49AD-9436-CC2B889F4471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlowProjectAss1", "SpecFlowProjectAss1\SpecFlowProjectAss1.csproj", "{02CB8668-3102-4C10-8D6B-61BC47EFBB9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7D3080-C961-49AD-9436-CC2B889F4471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7D3080-C961-49AD-9436-CC2B889F4471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7D3080-C961-49AD-9436-CC2B889F4471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7D3080-C961-49AD-9436-CC2B889F4471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CB8668-3102-4C10-8D6B-61BC47EFBB9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CB8668-3102-4C10-8D6B-61BC47EFBB9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CB8668-3102-4C10-8D6B-61BC47EFBB9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CB8668-3102-4C10-8D6B-61BC47EFBB9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE697C2A-050A-427E-A016-9FEBA98F6319}
+	EndGlobalSection
+EndGlobal

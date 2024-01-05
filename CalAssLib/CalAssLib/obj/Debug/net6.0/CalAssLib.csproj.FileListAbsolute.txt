@@ -1,0 +1,11 @@
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\bin\Debug\net6.0\CalAssLib.deps.json
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\bin\Debug\net6.0\CalAssLib.dll
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\bin\Debug\net6.0\CalAssLib.pdb
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\obj\Debug\net6.0\CalAssLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\obj\Debug\net6.0\CalAssLib.AssemblyInfoInputs.cache
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\obj\Debug\net6.0\CalAssLib.AssemblyInfo.cs
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\obj\Debug\net6.0\CalAssLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\obj\Debug\net6.0\CalAssLib.dll
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\obj\Debug\net6.0\refint\CalAssLib.dll
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\obj\Debug\net6.0\CalAssLib.pdb
+D:\Mphasis\Phase-4 Testing\05-01-2024\Assignment-1\CalAssLib\CalAssLib\obj\Debug\net6.0\ref\CalAssLib.dll
